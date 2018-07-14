@@ -22,7 +22,7 @@ function varargout = main(varargin)
 
 % Edit the above text to modify the response to help view
 
-% Last Modified by GUIDE v2.5 10-Sep-2011 12:12:22
+% Last Modified by GUIDE v2.5 04-Apr-2016 11:15:30
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
@@ -299,4 +299,3 @@ function Homepage_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 web -browser https://sites.google.com/site/irememberword
-

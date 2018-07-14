@@ -11,8 +11,8 @@ accadere
 happen to do..
 accadere a qlcu. di..
 accennare
-allude
-accennare a qlcu. di..; accennare a..
+allude,imply,mention
+accennare a qlcu. di..; accennare a..;Mi ha solo accennato la questione.
 accettare
 accept
 accettare di..
@@ -41,7 +41,7 @@ adempiere
 accomplish
 adempiere a
 aderire
-adhere
+adhere,stick;aderito
 aderire a qlco.
 affaticarsi
 tire, toil
@@ -54,7 +54,7 @@ grasp, seize
 afferrarsi a..
 affidare
 entrust, rely, consign, commit
-affidare qlco. a..
+affidare qlco. a..;Mi affido alle tue capacita' per risolvere questa situazione complicata.
 affidarsi
 trust
 affidari a..
